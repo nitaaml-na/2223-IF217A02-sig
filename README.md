@@ -1,6 +1,6 @@
 # Judul Aplikasi
-Aplikasi Pemetaan Wilayah Sebaran Stunting di Provinsi Jawa Barat Berbasis Sistem Informasi Geografi (GIS)
-(STUNMAP)
+"STUNMAP"
+Aplikasi Pemetaan Wilayah Sebaran Stunting di Provinsi Jawa Barat Berbasis Geographic Information System (GIS)
 ## Deskripsi Masalah
 - Pendataan stunting masih konvensional dan memerlukan waktu yang lama sementara harus dilakukan penanganan secara cepat dan tepat untuk pencegahan stunting
 ## Deskripsi Solusi
