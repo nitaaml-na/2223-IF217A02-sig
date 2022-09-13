@@ -30,3 +30,4 @@ UUID | string | ooj73849r734mf34r3
 Nama user | string | nita
 
 ## Mockup UX
+![Alur aplikasi](mockup.png)
