@@ -15,9 +15,9 @@ Nama Atribut | Tipe Data | Contoh
 ---|---|---
 UUID | string | ooj73849r734mf34r3
 Kode Provinsi |string | 32
-Kode Kabupaten | string | 3204
+Kode Kabupaten/Kota | string | 3204
 Nama Provinsi |string | Jawa Barat
-Nama Kabupaten | string | Kabupaten Bandung
+Nama Kabupaten/Kota | string | Kabupaten Bandung
 Persentase Stunting| int | 4
 Tahun | Year | 2021
 🌏 Koordinat | poin | [106.03794 -6.39284693]
