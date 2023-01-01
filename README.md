@@ -31,5 +31,5 @@ Nama user | string | nita
 
 ## Mockup UX
 
-##Link Video Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qd31R6Rb6XA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Link Video Demo
+https://www.youtube.com/embed/qd31R6Rb6XA
