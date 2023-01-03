@@ -31,5 +31,8 @@ Nama user | string | nita
 
 ## Mockup UX
 
-## Link Video Demo
+## Link Video Demo Stunmap
 https://www.youtube.com/embed/qd31R6Rb6XA
+
+## Link Video Pembelajaran GIS
+https://youtu.be/LSTVbRPlqRo
